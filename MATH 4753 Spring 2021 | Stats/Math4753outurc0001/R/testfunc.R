@@ -6,6 +6,7 @@
 #'
 #' @return a vector of squared components
 #' @export
+#' test
 #'
 #' @examples x = 1:30; func(x)
 testfunc = function(x){
